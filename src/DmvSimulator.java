@@ -23,7 +23,7 @@ public class DmvSimulator {
         if (random.nextInt(100) < 99) {
             System.out.println("Sorry, you do not have the required paperwork.");
         } else {
-            System.out.println("You have all of the required paperwork and you are all set.");
+            System.out.println("You have all of the required paperwork and you are all set.  MUAHAHAHA");
         }
     }
 }
